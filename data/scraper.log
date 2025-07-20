@@ -1,0 +1,37 @@
+2025-07-20T13:31:21.627Z [info]: ✅ NA_CO cookie already exists, skipping initialization
+2025-07-20T13:31:21.629Z [info]: ⏭️ Skipping cookie initialization - NA_CO cookie already available
+2025-07-20T13:31:21.629Z [info]: API server listening on port 3001
+2025-07-20T13:31:21.630Z [info]: 🚀 Server is ready to accept requests!
+2025-07-20T13:31:21.630Z [info]: 📡 Try: GET http://localhost:3001/naver?productUrl=YOUR_URL
+2025-07-20T13:31:30.399Z [info]: 🔗 New connection established
+2025-07-20T13:31:30.403Z [info]: 🔗 New connection established
+2025-07-20T13:31:30.405Z [info]: 📥 GET /naver?productUrl=https://smartstore.naver.com/stargift/products/10011243921 - 2025-07-20T13:31:30.405Z
+2025-07-20T13:31:30.406Z [info]: NA_CO cookie loaded: ct%3Dmdbl4645%7Cci%3DER6a5722fc-655b-11f0-acbc-b6bbbba7a308%7Ctr%3Dplan%7Chk%3D080195b960a51af8c5f1a7a2f46ba4a3f59e4a48%7Ctrx%3Dundefined
+2025-07-20T13:31:30.407Z [info]: URL with NA_CO cookie: https://smartstore.naver.com/stargift/products/10011243921?site_preference=device&NaPm=ct%3Dmdbl4645%7Cci%3DER6a5722fc-655b-11f0-acbc-b6bbbba7a308%7Ctr%3Dplan%7Chk%3D080195b960a51af8c5f1a7a2f46ba4a3f59e4a48%7Ctrx%3Dundefined
+2025-07-20T13:31:30.408Z [info]: Processing request for: https://smartstore.naver.com/stargift/products/10011243921?site_preference=device&NaPm=ct%3Dmdbl4645%7Cci%3DER6a5722fc-655b-11f0-acbc-b6bbbba7a308%7Ctr%3Dplan%7Chk%3D080195b960a51af8c5f1a7a2f46ba4a3f59e4a48%7Ctrx%3Dundefined (proxy: none)
+2025-07-20T13:31:33.931Z [info]: Stealth User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+2025-07-20T13:31:33.933Z [warn]: [1] Cookies sudah expired atau terlalu lama, perlu refresh...
+2025-07-20T13:31:33.934Z [info]: Merged cookies: 5 → 5 unique (Naver: 5, Shopping: 0, Overridden: 0)
+2025-07-20T13:31:33.942Z [info]: Cookies di-set ke page (5 cookies)
+2025-07-20T13:31:33.942Z [info]: [1] Navigasi ke product URL: https://smartstore.naver.com/stargift/products/10011243921?site_preference=device&NaPm=ct%3Dmdbl4645%7Cci%3DER6a5722fc-655b-11f0-acbc-b6bbbba7a308%7Ctr%3Dplan%7Chk%3D080195b960a51af8c5f1a7a2f46ba4a3f59e4a48%7Ctrx%3Dundefined dengan referer: https://shopping.naver.com/ns/home
+2025-07-20T13:31:33.944Z [info]: Navigating to: https://smartstore.naver.com/stargift/products/10011243921?site_preference=device&NaPm=ct%3Dmdbl4645%7Cci%3DER6a5722fc-655b-11f0-acbc-b6bbbba7a308%7Ctr%3Dplan%7Chk%3D080195b960a51af8c5f1a7a2f46ba4a3f59e4a48%7Ctrx%3Dundefined with referer: https://shopping.naver.com/ns/home
+2025-07-20T13:33:41.420Z [info]: ✅ NA_CO cookie already exists, skipping initialization
+2025-07-20T13:33:41.423Z [info]: ⏭️ Skipping cookie initialization - NA_CO cookie already available
+2025-07-20T13:33:41.423Z [info]: API server listening on port 3001
+2025-07-20T13:33:41.424Z [info]: 🚀 Server is ready to accept requests!
+2025-07-20T13:33:41.424Z [info]: 📡 Try: GET http://localhost:3001/naver?productUrl=YOUR_URL
+2025-07-20T13:33:43.215Z [info]: 🔗 New connection established
+2025-07-20T13:33:43.218Z [info]: 🔗 New connection established
+2025-07-20T13:33:43.223Z [info]: 📥 GET /naver?productUrl=https://smartstore.naver.com/stargift/products/10011243921 - 2025-07-20T13:33:43.223Z
+2025-07-20T13:33:43.226Z [info]: NA_CO cookie loaded: ct%3Dmdbl4645%7Cci%3DER6a5722fc-655b-11f0-acbc-b6bbbba7a308%7Ctr%3Dplan%7Chk%3D080195b960a51af8c5f1a7a2f46ba4a3f59e4a48%7Ctrx%3Dundefined
+2025-07-20T13:33:43.228Z [info]: URL with NA_CO cookie: https://smartstore.naver.com/stargift/products/10011243921?site_preference=device&NaPm=ct%3Dmdbl4645%7Cci%3DER6a5722fc-655b-11f0-acbc-b6bbbba7a308%7Ctr%3Dplan%7Chk%3D080195b960a51af8c5f1a7a2f46ba4a3f59e4a48%7Ctrx%3Dundefined
+2025-07-20T13:33:43.233Z [info]: Processing request for: https://smartstore.naver.com/stargift/products/10011243921?site_preference=device&NaPm=ct%3Dmdbl4645%7Cci%3DER6a5722fc-655b-11f0-acbc-b6bbbba7a308%7Ctr%3Dplan%7Chk%3D080195b960a51af8c5f1a7a2f46ba4a3f59e4a48%7Ctrx%3Dundefined (proxy: none)
+2025-07-20T13:33:45.524Z [info]: Stealth User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+2025-07-20T13:33:45.525Z [warn]: [1] Cookies sudah expired atau terlalu lama, perlu refresh...
+2025-07-20T13:33:45.525Z [info]: Merged cookies: 5 → 5 unique (Naver: 5, Shopping: 0, Overridden: 0)
+2025-07-20T13:33:45.534Z [info]: Cookies di-set ke page (5 cookies)
+2025-07-20T13:33:45.535Z [info]: [1] Navigasi ke product URL: https://smartstore.naver.com/stargift/products/10011243921?site_preference=device&NaPm=ct%3Dmdbl4645%7Cci%3DER6a5722fc-655b-11f0-acbc-b6bbbba7a308%7Ctr%3Dplan%7Chk%3D080195b960a51af8c5f1a7a2f46ba4a3f59e4a48%7Ctrx%3Dundefined dengan referer: https://shopping.naver.com/ns/home
+2025-07-20T13:33:45.538Z [info]: Navigating to: https://smartstore.naver.com/stargift/products/10011243921?site_preference=device&NaPm=ct%3Dmdbl4645%7Cci%3DER6a5722fc-655b-11f0-acbc-b6bbbba7a308%7Ctr%3Dplan%7Chk%3D080195b960a51af8c5f1a7a2f46ba4a3f59e4a48%7Ctrx%3Dundefined with referer: https://shopping.naver.com/ns/home
+2025-07-20T13:34:03.150Z [info]: ✅ Berhasil ambil __PRELOADED_STATE__ dari https://smartstore.naver.com/stargift/products/10011243921?site_preference=device&NaPm=ct%3Dmdbl4645%7Cci%3DER6a5722fc-655b-11f0-acbc-b6bbbba7a308%7Ctr%3Dplan%7Chk%3D080195b960a51af8c5f1a7a2f46ba4a3f59e4a48%7Ctrx%3Dundefined
+2025-07-20T13:34:03.414Z [info]: Browser closed successfully
+2025-07-20T13:34:11.435Z [info]: 💚 Server is still running and ready for requests...
