@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-20T11:19:45.102Z",
+  "timestamp": "2025-07-20T15:12:21.259Z",
   "cookie": {
     "name": "NA_CO",
-    "value": "ct%3Dmdbl4645%7Cci%3DER6a5722fc-655b-11f0-acbc-b6bbbba7a308%7Ctr%3Dplan%7Chk%3D080195b960a51af8c5f1a7a2f46ba4a3f59e4a48%7Ctrx%3Dundefined",
+    "value": "ct%3Dmdbtf7uv%7Cci%3DERe69eba67-657b-11f0-b814-cecc7a8a90e3%7Ctr%3Dplan%7Chk%3Db630118c25b1bb69a1fc834be850d5f60aaf6039%7Ctrx%3Dundefined",
     "domain": ".smartstore.naver.com",
     "path": "/orinique",
     "expires": -1,
@@ -15,5 +15,5 @@
     "sourceScheme": "Secure"
   },
   "productType": "ader",
-  "url": "https://smartstore.naver.com/orinique/products/11909822930?NaPm=ct%3Dmdbl4645%7Cci%3DER6a5722fc%2D655b%2D11f0%2Dacbc%2Db6bbbba7a308%7Ctr%3Dplan%7Chk%3D080195b960a51af8c5f1a7a2f46ba4a3f59e4a48%7Cnacn%3Dvp1wBsQZ88xW"
+  "url": "https://smartstore.naver.com/orinique/products/11909822930?NaPm=ct%3Dmdbtf7uv%7Cci%3DERe69eba67%2D657b%2D11f0%2Db814%2Dcecc7a8a90e3%7Ctr%3Dplan%7Chk%3Db630118c25b1bb69a1fc834be850d5f60aaf6039%7Cnacn%3DNOqeDYBziQIsB"
 }

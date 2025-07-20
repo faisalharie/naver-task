@@ -625,6 +625,12 @@ class NaverProductScraper {
     while (attempt < MAX_RETRIES && !result) {
       attempt++;
       let browser;
+
+      if (attempt == 2) {
+        //split productUrl by ?
+        const urlParts = productUrl.split('?');
+        productUrl = urlParts[0];
+      }
       
       try {
         const proxyConfig = new ProxyConfig(proxy);
@@ -1182,6 +1188,17 @@ class NaverProductScraper {
     
     const mergedCookies = this.mergeCookies(cookiesFromFile);
     await this.cookieManager.setCookiesToPage(page, mergedCookies);
+
+    // Inject NA_CO cookie if available
+    try {
+      const naCoData = JSON.parse(fs.readFileSync('na_co_cookie.json', 'utf8'));
+      if (naCoData && naCoData.cookie) {
+        await page.setCookie(naCoData.cookie);
+        this.logger.info('NA_CO cookie injected to browser');
+      }
+    } catch (e) {
+      this.logger && this.logger.warn('NA_CO cookie not injected: ' + e.message);
+    }
     
     // Set referer to shopping URL
     const shoppingUrl = CONFIG.URLS.SHOPPING;
